@@ -1,0 +1,97 @@
+body {
+  font-family: 'Times New Roman', Times, serif;
+  background-color: #6F9BFF;
+}
+
+
+h1 {
+  font-family: 'Pacifico', cursive;
+  background-color: #6FFFCB;
+  text-align: center;
+  font-size: 50px;
+  border-style: dotted;
+  border-width: thick;
+  border-color: #FE0061;
+  border-radius: 12px;
+  padding: 5px;
+}
+
+#PP {
+  width: 150px;
+  height: 150px;
+}
+
+#PTCG {
+  width: 150px;
+  height: 200px;
+}
+
+#Sm {
+  width: 100px;
+  height: 100px;
+}
+
+#Vp {
+  width: 190px;
+  height: 190px;
+}
+
+#Fb {
+  width: 45px;
+  height: 45px;
+}
+
+#Inst {
+  width: 80px;
+  height: 50px;
+}
+
+ul {
+  font-family: 'Indie Flower', cursive;
+  font-size: 25px;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+#navegacion {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+.nav-link {
+  float: left;
+}
+
+.nav-link a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.nav-link a:hover {
+  background-color: #111;
+}
+
+.text {
+  text-align: center;
+}
